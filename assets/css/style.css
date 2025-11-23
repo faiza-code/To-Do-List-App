@@ -7,16 +7,22 @@ box-sizing: border-box;
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg ,#9F9BEB,#B6BDBF);
+    /* background: linear-gradient(135deg ,#9F9BEB,#B6BDBF); */
     padding: 10px;
+    background: url(/assets/img/background3.svg);
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-size: cover; 
 }
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background: #fff;
+    /* background: #fff; */
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: inset -5px -5px rgba(255, 255, 255, 0.9);
 
 }
 .todo-app h2{
