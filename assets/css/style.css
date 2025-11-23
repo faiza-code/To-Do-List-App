@@ -21,8 +21,11 @@ box-sizing: border-box;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 20px;
-    background-color: rgba(255, 255, 255, 0.7);
-    box-shadow: inset -5px -5px rgba(255, 255, 255, 0.9);
+    border: 5px solid  rgba(255, 255, 255, 0.5);;
+    /* background-color: rgba(255, 255, 255, 0.7); */
+    /* box-shadow: inset -5px -5px rgba(255, 255, 255, 0.9); */
+    background: transparent;
+    backdrop-filter:blur(15px) ;
 
 }
 .todo-app h2{
@@ -107,5 +110,6 @@ ul li span{
 
 }
 ul li span:hover{
-    background: #edeef0;
+    /* background: #edeef0; */
+    background:#ff5945;
 }
