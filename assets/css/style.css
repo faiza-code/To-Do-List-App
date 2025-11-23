@@ -12,7 +12,9 @@ box-sizing: border-box;
     background: url(/assets/img/background3.svg);
     background-repeat: no-repeat; 
     background-position: center center; 
-    background-size: cover; 
+    /* background-size: cover;  */
+    background-size: contain;
+    /* background-position: left; */
 }
 .todo-app{
     width: 100%;
