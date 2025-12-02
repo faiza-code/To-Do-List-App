@@ -30,7 +30,7 @@ A simple, clean, and responsive web application that helps users **create, manag
 
 
 ```
-![App Screenshot](assets/img/ToDoList.png)
+![App Screenshot](./assets/img/ToDoList.png)
 ```
 
 ---
