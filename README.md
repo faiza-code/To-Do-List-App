@@ -27,11 +27,7 @@ A simple, clean, and responsive web application that helps users **create, manag
 
 ## 📸 Screenshots 
 
-
-
-```
-![App Screenshot](./assets/img/ToDoList.png)
-```
+<img src="https://i.postimg.cc/523KX4cx/To-Do-List-App.png" width="600" />
 
 ---
 
